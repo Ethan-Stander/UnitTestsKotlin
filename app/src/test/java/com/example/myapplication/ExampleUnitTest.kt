@@ -19,6 +19,9 @@ class ExampleUnitTest {
     @Test
     fun TestWord()
     {
+
+
+        
         assertEquals(kak.Afrikaans(),"Kak")
     }
 
